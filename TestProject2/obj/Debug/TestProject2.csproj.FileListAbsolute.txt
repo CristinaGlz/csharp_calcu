@@ -1,0 +1,7 @@
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.dll
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.pdb
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\bin\Debug\nunit.framework.dll
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\bin\Debug\nunit.framework.xml
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\obj\Debug\TestProject2.csprojResolveAssemblyReference.cache
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\obj\Debug\TestProject2.dll
+c:\users\cristina\documents\visual studio 2010\Projects\TestProject2\TestProject2\obj\Debug\TestProject2.pdb

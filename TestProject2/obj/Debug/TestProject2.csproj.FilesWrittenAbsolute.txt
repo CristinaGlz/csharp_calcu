@@ -1,0 +1,6 @@
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\obj\Debug\.NETFramework,Version=v4.5.AssemblyAttribute.cs
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.dll.mdb
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\bin\Debug\TestProject2.dll
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\obj\Debug\TestProject2.dll
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\obj\Debug\TestProject2.dll.mdb
+C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2\TestProject2\bin\Debug\nunit.framework.dll

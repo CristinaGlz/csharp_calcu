@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="TestProject2\bin\Debug\TestProject2.dll" total="1" failures="0" not-run="0" date="2014-11-11" time="01:18:21">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 6.0.6002.131072 Service Pack 2" platform="Win32NT" cwd="C:\Users\Cristina\Documents\Visual Studio 2010\Projects\TestProject2" machine-name="F-PC" user="Cristina" user-domain="F-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="TestProject2\bin\Debug\TestProject2.dll" success="True" time="0.042" asserts="0">
+    <results>
+      <test-suite name="TestProject2" success="True" time="0.036" asserts="0">
+        <results>
+          <test-suite name="TestProject2" success="True" time="0.015" asserts="0">
+            <results>
+              <test-case name="TestProject2.TestProject2.TestMethod1" executed="True" success="True" time="0.011" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
