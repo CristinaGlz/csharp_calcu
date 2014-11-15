@@ -4,7 +4,7 @@ language: objective-c
 
 install:
   - sudo apt-get install monodevelop
-  - sudo sudo apt-get install mono-gmcs mono-gac mono-utils monodoc-browser monodevelop-nunit monodevelop-versioncontrol
+  - sudo apt-get install mono-gmcs mono-gac mono-utils monodoc-browser monodevelop-nunit monodevelop-versioncontrol
 
 script:
   - xbuild TestProject2.sln
