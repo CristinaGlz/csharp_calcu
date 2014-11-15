@@ -3,6 +3,7 @@
 language: objective-c
 
 install:
+  - sudo apt-get aptitude 
   - sudo aptitude install mono-gmcs mono-utils monodevelop monodoc mono-xsp monodoc-http monodoc-ipod-manual monodoc-njb-manual monodoc-nunit-manual monodoc-gtk2.0-manual monodoc-gecko2.0-manual monodoc-ipod-manual monodoc-njb-manual monodoc-nunit-manual monodoc-gecko2.0-manual mono-xsp2 libnunit-doc monodevelop-nunit monodevelop-versioncontrol monodevelop-query
 
 script:
