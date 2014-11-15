@@ -1,10 +1,12 @@
 ## Travis CI Integration
 
-language: objective-c
+language: c
 
 install:
-  - add-apt-repository ppa:keks9n/monodevelop-latest
-  - sudo apt-get update && sudo apt-get install monodevelop-current
+  - deb http://www.backports.org/debian sarge-backports main contrib non-free 
+  - sudo apt-get install mono mono-devel 
+  - sudo apt-get install monodevelop 
+
 
 script:
   - xbuild TestProject2.sln
