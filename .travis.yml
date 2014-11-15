@@ -3,7 +3,7 @@
 language: c
 
 install:
-  - cd monodepelop
+  - cd monodevelop
   - ./configure 
   - make
   - sudo make install
