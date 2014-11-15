@@ -3,10 +3,10 @@
 language: c
 
 install:
-  - sudo add-apt-repository ppa:ermshiperete/monodevelop
-  - /n
-  - sudo apt-get update
-  - sudo apt-get install monodevelop-current
+  - cd monodepelop
+  - ./configure 
+  - make
+  - sudo make install
 
 
 script:
