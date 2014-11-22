@@ -1,0 +1,12 @@
+## Travis CI Integration
+
+language: c
+
+install:
+ - sudo apt-get update 
+ - sudo apt-get install mono-complete
+
+script:
+  - xbuild TestProject2.sln
+  - nunit-console TestProject2/bin/Debug/TestProject2.dll
+  
