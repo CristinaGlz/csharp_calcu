@@ -1,5 +1,5 @@
 #! /bin/sh
-sudo aptitude update
+aptitude update
 
 sudo aptitude install mono-runtime
 
