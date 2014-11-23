@@ -4,6 +4,7 @@ language: c
 
 install:
  - sudo apt-get install mono-complete
+ - sudo apt-get install mono mono-gmcs mono-gac mono-utils monodevelop monodoc-browser monodevelop-nunit monodevelop-versioncontrol
 
 
 script:
