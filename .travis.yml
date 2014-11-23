@@ -3,8 +3,8 @@
 language: c
 
 install:
- - sudo apt-get update 
  - sudo apt-get install mono-complete
+ - enter
 
 script:
   - xbuild TestProject2.sln
